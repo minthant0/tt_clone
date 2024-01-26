@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064505502332",
+    "project_id": "viewtok-3d8fc",
+    "storage_bucket": "viewtok-3d8fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064505502332:android:2bd55142ec5ae248eaf7f9",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064505502332-8oj3qrtf7kh39le1vv39na0ua62hf2g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiktok_tutorial",
+            "certificate_hash": "ff8a0586663888e24c9e294778444b66a58e3066"
+          }
+        },
+        {
+          "client_id": "1064505502332-furusr18uv5j7q8f8535gsfgqn525jsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeppzUh03Ctv5clMH0jpkKt_X6WQ_wrRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064505502332-furusr18uv5j7q8f8535gsfgqn525jsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
